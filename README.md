@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Maharnavar</h1>
-<h3 align="center">IT Eng. Undergrad 2024, Pune Institute of Computer Technology (PICT).</h3>
+<h3 align="center">IT Eng. Undergrad 2024, Pune Institute of Computer Technology (PICT)</h3>
 
-- 🔭 I'm IT Engineering student at Pune Institute of Computer Technology (PICT)<br/>
+- 🔭 I'm IT Engineering student at Pune Institute of Computer Technology (PICT).<br/>
 
 - 👯 I’m looking to collaborate on exciting web development projects.
 <br/>
